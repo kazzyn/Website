@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4ebec37e-a62b-400d-b3de-d9a4754f3308)
+
 ## Statistics
 | Metric                 | Value               |
 |------------------------|---------------------|
@@ -8,7 +10,7 @@
 | 📱 **Mobile Users**    | N/A                |
 | 💻 **Desktop Users**   | N/A                |
 | 🌎 **Countries Reached** | N/A            |
-| 🆕 **Commits**   | 4            
+| 🆕 **Commits**   | 5            
 
 ---
 
