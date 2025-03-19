@@ -8,6 +8,7 @@
 | 📱 **Mobile Users**    | N/A                |
 | 💻 **Desktop Users**   | N/A                |
 | 🌎 **Countries Reached** | N/A            |
+| 🆕 **Commits**   | 4            
 
 ---
 
