@@ -10,7 +10,9 @@
 | 📱 **Mobile Users**    | N/A                |
 | 💻 **Desktop Users**   | N/A                |
 | 🌎 **Countries Reached** | N/A            |
-| 🆕 **Commits**   | 5            
+| 🆕 **Commits** | 6            |
+| 👀 **Watching** | 0            |
+| ✨ **Stars** | 0            |
 
 ---
 
