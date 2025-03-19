@@ -7,7 +7,7 @@
 | ⏳ **Avg. Session**    | N/A             |
 | 📱 **Mobile Users**    | N/A                |
 | 💻 **Desktop Users**   | N/A                |
-| 🌎 **Countries Reached** | NA/            |
+| 🌎 **Countries Reached** | N/A            |
 
 ---
 
